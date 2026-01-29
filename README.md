@@ -1,4 +1,5 @@
-Hi there, I'm Shya, a **software engineering student** and **junior full-stack developer**
+# Hi there
+I'm Shya, a **software engineering student** and **junior full-stack developer**
 
 # 💫 About Me:
 🔭 I’m currently working on a full-stack side project<br>🌱 I’m deepening my knowledge of backend development and system design
